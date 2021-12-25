@@ -14,12 +14,13 @@ word = 'anabana'
 
 print(is_pal(word))
 
-# test case:  not palindrome
+# test case: not palindrome
 word = 'banana'
 
 print(is_pal(word))
 
-# expected output: 
+# expected output from test cases: 
 # True
 # False
+# test
 
