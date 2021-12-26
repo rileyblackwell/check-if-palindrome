@@ -11,6 +11,7 @@ def is_pal(word):
     else:
         return is_pal(word[1:-1])
 
+
 # 2 required test cases palindrome True and palindrome False
 # test case: palindrome True
 word = 'anabana'
@@ -25,5 +26,6 @@ print(is_pal(word))
 # expected output from test cases: 
 # True
 # False
+# test
 
 
